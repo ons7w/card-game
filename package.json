@@ -1,0 +1,12 @@
+{
+  "name": "card-game",
+  "version": "1.0.0",
+  "description": "オンラインカードゲーム",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
